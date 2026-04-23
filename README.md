@@ -1,2 +1,2 @@
 # ruff_ci_demo
-TDS 2026 GA8 
+TDS 2026 GA8
